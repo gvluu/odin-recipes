@@ -1,4 +1,8 @@
-# odin-recipes
+# Live Demo
+
+https://gvluu.github.io/odin-recipes/
+
+# Odin Recipes
 My first recipe website for practice via TOP. 
 Reminded to use "git add ." and "git commit"
 

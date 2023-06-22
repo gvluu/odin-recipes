@@ -1,6 +1,6 @@
 # Live Demo
 
-https://gvluu.github.io/odin-recipes/index.html
+https://gvluu.github.io/odin-recipes
 
 # Odin Recipes
 My first recipe website for practice via TOP. 
